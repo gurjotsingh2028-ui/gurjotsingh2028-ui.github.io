@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gurjotsingh2028-ui.github.io/sitemap.xml
